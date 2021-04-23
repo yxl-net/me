@@ -276,3 +276,6 @@
 + 工作历史
 + 最高水平
 + 现在状态
+# 报表
+## FastReport
+## FineReport
