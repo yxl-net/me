@@ -194,7 +194,7 @@
 ## [个人项目](/proj/README.md)
 ## 教育经历
 + 毕业学校
-	+ 昆明理工大学(全国排名55名)
+	+ XX理工大学(全国排名55名)
 + 学历
 	+ 全日制统招本科
 + 学位
@@ -217,3 +217,6 @@
 	+ [全栈开发工程师的网站](http://www.yangxueliang.top)
 + 静态网站
 	+ [Github Pages](https://yxl-net.github.io/)
++ 个人项目仓库
+	+ [Github](https://github.com/yxl-net)
+	+ [Gitee](https://gitee.com/yxl-net)
