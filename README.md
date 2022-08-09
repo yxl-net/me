@@ -223,4 +223,3 @@
 	+ [Github Pages](https://yxl-net.github.io/)
 + 个人项目Git仓库
 	+ [Github](https://github.com/yxl-net/proj)
-	+ [Gitee](https://gitee.com/yxl-net/proj)
