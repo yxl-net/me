@@ -221,5 +221,5 @@
 	+ [全栈开发工程师的网站](http://www.yangxueliang.top)
 + 静态网站
 	+ [Github Pages](https://yxl-net.github.io/)
-+ 个人项目Git仓库
-	+ [Github](https://github.com/yxl-net/proj)
++ 个人Git仓库
+	+ [Github](https://github.com/yxl-net)
