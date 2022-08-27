@@ -225,4 +225,4 @@
 + 静态网站
 	+ [Github Pages](https://yxl-net.github.io/)
 + 个人Git仓库
-	+ [Github](https://github.com/yxl-net)
+	+ [Github](https://github.com/yxl-net) 
