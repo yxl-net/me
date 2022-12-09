@@ -145,7 +145,7 @@
 	+ 工作内容
 		+ 负责水务集团报装系统和热线系统的维护和开发。
 	+ 技术栈
-		+ Oracle
+		+ Oracle 
 		+ ADO.NET
 		+ .NET Core Web API
 		+ Vue
