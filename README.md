@@ -80,7 +80,7 @@
 		+ ADO.NET
 		+ Winform。
 	+ 完成项目
-		+ [医院账务领导决策系统](work02/proj0201.md)
+		+ [医院账务领导决策系统](work02/proj0201.md) 
 		+ [财政拨款系统](work02/proj0202.md)
 		+ [高校收费系统](work02/proj0203.md)
 		+ [印刷厂生产计件系统](work02/proj0204.md)
