@@ -147,7 +147,7 @@
 	+ 技术栈
 		+ Oracle 
 		+ ADO.NET
-		+ .NET Core Web API
+		+ .NET Core Web API 
 		+ Vue
 		+ iView/Element。
 	+ 完成项目
