@@ -7,7 +7,7 @@
 + 年龄
 	+ 37岁
 ## 工作经验 
-+ 2011年7月1日参加工作
++ 2011年7月1日参加工作 
 + 11年软件开发
 	+ 9年PC端
 		+ 2013年7月至今  
@@ -191,7 +191,7 @@
 	+ 掌握EChart
 	+ 掌握百度地图开发
 + [.Net 技术](skill/net.md)
-	+ 掌握ADO.NET
+	+ 掌握ADO.NET 
 	+ 掌握WinForm
 + [报表](skill/report.md)
 ## [个人项目](/proj/README.md)
