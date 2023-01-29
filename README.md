@@ -1,6 +1,6 @@
  # 我的简历 
 ## 基本信息         
-+ 姓  
++ 姓   
 	+ 杨                                 
 + 性别   
 	+ 男   
@@ -193,7 +193,7 @@
 + [.Net 技术](skill/net.md)
 	+ 掌握ADO.NET 
 	+ 掌握WinForm
-+ [报表](skill/report.md)
++ [报表](skill/report.md) 
 ## [个人项目](/proj/README.md)
 ## 教育经历
 + 毕业学校 
